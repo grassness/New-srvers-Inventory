@@ -1,1 +1,1 @@
-# New-srvers-Inventory
+# New-servers-Inventory
